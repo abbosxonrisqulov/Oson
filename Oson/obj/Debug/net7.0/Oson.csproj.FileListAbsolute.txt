@@ -1,0 +1,15 @@
+D:\Dasturlash\Example\Oson\Oson\bin\Debug\net7.0\Oson.exe
+D:\Dasturlash\Example\Oson\Oson\bin\Debug\net7.0\Oson.deps.json
+D:\Dasturlash\Example\Oson\Oson\bin\Debug\net7.0\Oson.runtimeconfig.json
+D:\Dasturlash\Example\Oson\Oson\bin\Debug\net7.0\Oson.dll
+D:\Dasturlash\Example\Oson\Oson\bin\Debug\net7.0\Oson.pdb
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\Oson.csproj.AssemblyReference.cache
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\Oson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\Oson.AssemblyInfoInputs.cache
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\Oson.AssemblyInfo.cs
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\Oson.csproj.CoreCompileInputs.cache
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\Oson.dll
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\refint\Oson.dll
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\Oson.pdb
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\Oson.genruntimeconfig.cache
+D:\Dasturlash\Example\Oson\Oson\obj\Debug\net7.0\ref\Oson.dll

@@ -1,0 +1,12 @@
+D:\Dasturlash\Example\Oson\Oson.Domain\bin\Debug\net7.0\Oson.Domain.deps.json
+D:\Dasturlash\Example\Oson\Oson.Domain\bin\Debug\net7.0\Oson.Domain.dll
+D:\Dasturlash\Example\Oson\Oson.Domain\bin\Debug\net7.0\Oson.Domain.pdb
+D:\Dasturlash\Example\Oson\Oson.Domain\obj\Debug\net7.0\Oson.Domain.csproj.AssemblyReference.cache
+D:\Dasturlash\Example\Oson\Oson.Domain\obj\Debug\net7.0\Oson.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash\Example\Oson\Oson.Domain\obj\Debug\net7.0\Oson.Domain.AssemblyInfoInputs.cache
+D:\Dasturlash\Example\Oson\Oson.Domain\obj\Debug\net7.0\Oson.Domain.AssemblyInfo.cs
+D:\Dasturlash\Example\Oson\Oson.Domain\obj\Debug\net7.0\Oson.Domain.csproj.CoreCompileInputs.cache
+D:\Dasturlash\Example\Oson\Oson.Domain\obj\Debug\net7.0\Oson.Domain.dll
+D:\Dasturlash\Example\Oson\Oson.Domain\obj\Debug\net7.0\refint\Oson.Domain.dll
+D:\Dasturlash\Example\Oson\Oson.Domain\obj\Debug\net7.0\Oson.Domain.pdb
+D:\Dasturlash\Example\Oson\Oson.Domain\obj\Debug\net7.0\ref\Oson.Domain.dll
